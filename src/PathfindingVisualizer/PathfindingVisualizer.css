@@ -1,0 +1,16 @@
+.grid-container {
+  margin: 2% auto;
+}
+
+.grid {
+  white-space: pre;
+}
+
+button {
+  margin-bottom: 20px;
+}
+
+.navbar-brand {
+  margin-left: 20px;
+  margin-right: 20px;
+}
